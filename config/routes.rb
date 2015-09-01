@@ -5,6 +5,4 @@ Rails.application.routes.draw do
   end
  
   root 'welcome#index'
-
- 
 end

@@ -2,5 +2,3 @@
 
 Simple Test Rails Blog App - Zac
 
-
-<tt>rake doc:app</tt>.
